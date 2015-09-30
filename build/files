@@ -23,6 +23,7 @@
 /etc/cron.d/mon-put-instance-data-cloudwatch root:root 0700
 /opt/taupage/init.sh root:root 0700
 /opt/taupage/runtime/Docker root:root 0700
+/etc/samhain/samhainrc root:root 0644
 
 /usr/lib/python2.7/dist-packages/cloudinit/handlers/zalando_ami_config.py root:root 0444
 
